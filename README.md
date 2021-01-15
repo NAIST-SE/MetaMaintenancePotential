@@ -4,7 +4,13 @@ https://github.com/NAIST-SE/MetaMaintenancePotential/
 
 This is a research artifact for the ICSE'21 paper **Same File, Different Changes: The Potential of Meta-Maintenance on GitHub**.
 
-
+## Contents
+- `LICENSE.md` - [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/)
+- `README.md` - this file
+- `STATUS.md` - application of an artifact badge of available
+- `obtained_repositories.csv` - a list of studied 32,007 repositories (ID and path)
+- `paper.pdf` - the accepted paper
+- `qualitative_analysis.xlsx` - results of the qualitative analysis for RQ2, RQ3, and RQ4
 
 ## Authors
 - [Hideaki Hata](https://hideakihata.github.io/)
