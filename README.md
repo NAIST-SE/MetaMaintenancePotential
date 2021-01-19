@@ -10,7 +10,8 @@ This is a research artifact for the ICSE'21 paper **Same File, Different Changes
 - `STATUS.md` - application of an artifact badge of available
 - `obtained_repositories.csv` - a list of studied 32,007 repositories (ID and path)
 - `paper.pdf` - the accepted paper
-- `qualitative_analysis.xlsx` - results of the qualitative analysis for RQ2, RQ3, and RQ4
+- `qualitative_analysis.xlsx` - results of qualitative analysis for RQ2, RQ3, and RQ4
+- `survey.pdf` - a survey material for RQ6
 
 ## Authors
 - [Hideaki Hata](https://hideakihata.github.io/)
