@@ -19,6 +19,26 @@ This is a research artifact for the ICSE'21 paper "**Same File, Different Change
 
 ### qualitative_analysis.xlsx
 
+This is the results of our qualitative analysis using the following coding guildes.
+
+**coding guide for RQ2**
+- *library* - a program that contains a collection of code used by applications
+- *utility functionality* - a system software for controlling the operation of a computer, devices, etc.
+- *configuration* - Configuration files
+- *other* - mostly for header files or files containing version information
+
+**coding guide for RQ3**
+- *related* - There is an explicit relationship among repositories, e.g., one is a fork of another, their names are similar or identical, or because one mentions the other prominently in its documentation.
+- *non-related* - On the other hand, many seed families do not contain any evidence to suggest that there is a connection among the repositories, apart from using at least one common file.
+
+**coding guide for RQ4**
+- *reference to a known origin* - For many repositories in our sample, the origin is obvious - this applies in particular to the various Linux variants. In those cases, changes that have been applied to seed files are often the same commits that have been applied to the origin.
+- *library updates* - Library updates.
+- *project-specific changes* - The most interesting case for meta-maintenance are project-specific changes which are not library updates or made in reference to a known origin.
+- *tangled updates* - In case the commit history contained changes that could not easily be localized to the file under investigation, we applied this code.
+- *other* - For change histories which did not fit any of the previous categories, we applied this code.
+
+
 ### family_samples.csv
 
 The CSV file includes seed family samples.
