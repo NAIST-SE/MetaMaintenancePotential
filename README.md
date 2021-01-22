@@ -2,7 +2,15 @@
 
 https://github.com/NAIST-SE/MetaMaintenancePotential/
 
-This is a research artifact for the ICSE'21 paper "**Same File, Different Changes: The Potential of Meta-Maintenance on GitHub**". This artifact is a data repository including a list of studied 32,007 repositories on GitHub, a list of targeted 401,610,677 files, the results of the qualitative analysis for RQ2, RQ3, and RQ4, the results of the quantitative analysis for RQ5, and survey material for RQ6. The purpose of this artifact is enabling researchers to replicate our mixed-methods results of the paper, and to reuse the results of our exploratory study for further software engineering research.
+This is a research artifact for the ICSE'21 paper "**Same File, Different Changes: The Potential of Meta-Maintenance on GitHub**". The following six research questions were constructed to guide the study.
+- RQ1: *How prevalent are seed files in software repositories?*
+- RQ2: *What kinds of seed files are there?*
+- RQ3: *Are there relationships among repositories in seed families?*
+- RQ4: *What was the main driver of the changes for variants?*
+- RQ5: *How uniquely do variants evolve in seed families?*
+- RQ6: *How do developers consider changes for variants?*
+
+This artifact is a data repository including a list of studied 32,007 repositories on GitHub, a list of targeted 401,610,677 files, the results of the qualitative analysis for RQ2, RQ3, and RQ4, the results of the quantitative analysis for RQ5, and survey material for RQ6. The purpose of this artifact is enabling researchers to replicate our mixed-methods results of the paper, and to reuse the results of our exploratory study for further software engineering research.
 
 Since our full dataset exceeds the file size limitation of GitHub, we published a separate version of this archive including the full dataset on Zenodo: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4456668.svg)](https://doi.org/10.5281/zenodo.4456668)
 
