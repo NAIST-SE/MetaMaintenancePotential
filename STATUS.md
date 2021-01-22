@@ -4,5 +4,5 @@
 
 We are applying for Available badge based on the following reasons:
 
-- Our full dataset is publicly accessible at [![DOI](https://zenodo.org/badge/DOI/*)](https://doi.org/*)
-- Documentation is available online at [INSTALL.md](INSTALL.md)
+- Our full dataset is publicly accessible at [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4456668.svg)](https://doi.org/10.5281/zenodo.4456668)
+- Documentation is available online at [README.md](README.md)
