@@ -2,7 +2,7 @@
 
 https://github.com/NAIST-SE/MetaMaintenancePotential/
 
-This is a research artifact for the ICSE'21 paper **Same File, Different Changes: The Potential of Meta-Maintenance on GitHub**.
+This is a research artifact for the ICSE'21 paper "**Same File, Different Changes: The Potential of Meta-Maintenance on GitHub**". This artifact is a data repository including a list of studied 32,007 repositories on GitHub, the results of the qualitative analysis for RQ2, RQ3, and RQ4, the results of the quantitative analysis for RQ5, and survey material for RQ6. The purpose of this artifact is enabling researchers to replicate our mixed-methods results of the paper, and to reuse the results of our exploratory study for further software engineering research.
 
 ## Contents
 - `LICENSE.md` - [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/)
@@ -12,7 +12,7 @@ This is a research artifact for the ICSE'21 paper **Same File, Different Changes
 - `paper.pdf` - the accepted paper
 - `qualitative_analysis.xlsx` - results of qualitative analysis for RQ2, RQ3, and RQ4
 - `family_samples.csv` - results of code similarity analysis for RQ5
-- `survey.pdf` - a survey material for RQ6
+- `survey.pdf` - survey material for RQ6
 
 ### family_samples.csv
 
