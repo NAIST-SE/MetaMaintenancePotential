@@ -19,7 +19,7 @@ This is a research artifact for the ICSE'21 paper "**Same File, Different Change
 
 ### qualitative_analysis.xlsx
 
-This is the results of our qualitative analysis using the following coding guildes.
+This is the results of our qualitative analysis using the following coding guides.
 
 **coding guide for RQ2**
 - *library* - a program that contains a collection of code used by applications
