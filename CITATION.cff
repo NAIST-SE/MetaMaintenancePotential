@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+authors:
+- family-names: "Hata"
+  given-names: "Hideaki"
+  orcid: "https://orcid.org/0000-0003-0708-5222"
+- family-names: "Gaikovina Kula"
+  given-names: "Raula"
+  orcid: "https://orcid.org/0000-0003-2324-0608"
+- family-names: "Ishio"
+  given-names: "Takashi"
+  orcid: "https://orcid.org/0000-0003-4106-699X"
+- family-names: "Treude"
+  given-names: " Christoph"
+  orcid: "https://orcid.org/0000-0002-6919-2149"
+title: "Research Artifact: The Potential of Meta-Maintenance on GitHub"
+doi: 10.5281/zenodo.1234
+url: "https://github.com/NAIST-SE/MetaMaintenancePotential"
