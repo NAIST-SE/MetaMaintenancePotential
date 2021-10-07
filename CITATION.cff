@@ -15,3 +15,4 @@ authors:
 title: "Research Artifact: The Potential of Meta-Maintenance on GitHub"
 doi: 10.5281/zenodo.1234
 url: "https://github.com/NAIST-SE/MetaMaintenancePotential"
+type: dataset
